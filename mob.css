@@ -1,0 +1,35 @@
+{
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+width: 100%;
+height: 60px;
+background-color: blueviolet;
+}
+.conteudo{
+width: 100%;
+background-color: blue;
+}
+.rodape{
+background-color: blue;
+width: 100%;
+
+}
+.info-cinema {
+    width: 100%;
+    background-color: blueviolet;
+}
+.info-filme {
+    width: 100%;
+    background-color: blueviolet;
+}
+ .info-filme-retro {
+    width: 100%;
+    background-color: blueviolet;
+ }
+ .info-destaque {
+    width: 100%;
+    background-color: blueviolet;
+ }
